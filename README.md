@@ -1,3 +1,4 @@
 # Omnifood
+
 This is my first repository
-Author - Pratyay
+Author - Pratyay Amrit
